@@ -1,0 +1,7 @@
+ls
+build/
+.DS_STORE
+**/.DS_STORE
+*.xcuserstate
+project.xcworkspace/
+xcuserdata/
